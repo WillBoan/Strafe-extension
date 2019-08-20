@@ -84,7 +84,7 @@ All done! The Strafe icon will now be in the top right of Chrome.
 
 To open Strafe, click on the Strafe icon in the top right of Chrome, then click ‘Open’. Strafe can also be disabled from this menu (if disabled, it won’t try to run on cases you open).
 
-![Clicking the Strafe icon](images/readme-images/strafe-icon-and-popup.png)
+![Clicking the Strafe icon](strafe-icon-and-popup.png)
 
 ### Why Strafe matters
 
